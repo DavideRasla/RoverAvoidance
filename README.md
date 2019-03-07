@@ -6,7 +6,8 @@ Rover:
  - Arduino due
  - ARte 
  - Bluetooth module
-Linux
+ 
+Linux:
  - Allegro library
  - C language
 
